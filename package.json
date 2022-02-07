@@ -1,0 +1,27 @@
+{
+  "name": "apify-context",
+  "version": "1.0.3",
+  "description": "Context hooks for Apify package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstephen19/apify-context.git"
+  },
+  "keywords": [
+    "apify"
+  ],
+  "author": "Matt Stephens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstephen19/apify-context/issues"
+  },
+  "homepage": "https://github.com/mstephen19/apify-context#readme",
+  "dependencies": {
+    "apify": "^2.2.1",
+    "object-path": "^0.11.8",
+    "vm2": "^3.9.5"
+  }
+}
